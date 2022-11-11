@@ -85,6 +85,7 @@
 // console.info(chocoAmount + change);
 
 //9.The user types in a sum of bank deposits for 2 months with a yearly interest rate of 5%. The program counts the sum of interest.
-// let deposit = prompt("Enter the sum of bank deposits for 2 months: ")*1;
-// let suminterest =deposit*(5/100)*2;
+//let deposit = prompt("Enter the sum of bank deposits for 2 months: ")*1;
+//let sumInterest = deposit * 0.05 * 0.166667;
+//console.log(`The sum amount of interest is ${sumInterest} Euro.`);
 
